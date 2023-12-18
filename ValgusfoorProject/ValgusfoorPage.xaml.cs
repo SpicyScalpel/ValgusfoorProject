@@ -71,7 +71,7 @@ namespace ValgusfoorProject
 
             lbl3 = new Label()
             {
-                Text = "rohaline",
+                Text = "Roheline",
                 HorizontalOptions = LayoutOptions.Center,
                 VerticalOptions = LayoutOptions.Center
             };
